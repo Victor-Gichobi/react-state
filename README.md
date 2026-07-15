@@ -21,6 +21,12 @@ This project demonstrates the use of React class components, state, event handli
 
 ## Screenshots
 
+#### Showing profile
+
+
+
+#### Hiding profile
+
 
 
 
